@@ -1,2 +1,2 @@
 # styxnstones
-Test repository for robutts git review
+Test repository for robots `git` review
