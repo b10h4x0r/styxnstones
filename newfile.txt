@@ -1,0 +1,4 @@
+NEW FILE
+--------------
+
+When in the course of human events it becomes necessary for two committers to, you know, write code and commit it, then like, whoa.  You know.
